@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C++ and more logic-based programming
 - 💞️ I’m looking to collaborate on anything with NextJS or C++!
 - 📫 How to reach me ...
--   Here on GitHub :)
+..... Here on GitHub :)
