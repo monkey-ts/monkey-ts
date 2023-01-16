@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on anything with NextJS or C++!
 - 📫 Feel free to reach out to me here on GitHub 😁
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=monkey-ts)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=monkey-ts&theme=radical&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
